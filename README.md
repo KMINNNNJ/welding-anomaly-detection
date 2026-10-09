@@ -58,7 +58,6 @@
 welding-anomaly-detection/
 ├─ README.md
 ├─ requirements.txt
-├─ .gitignore
 ├─ 00_EDA_report_tables.ipynb
 ├─ 01_model_comparison.ipynb
 └─ 02_final_model_predictive_lstm.ipynb
